@@ -18,9 +18,4 @@
  
   </div>
   
-   ![Snake animation](https://github.com/Mateuuus/Mateuuus/blob/output/github-contribution-grid-snake.svg)
- #
-  
-</div>
-
- ![](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+   
