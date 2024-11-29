@@ -1,4 +1,8 @@
-  # **𝑴𝒂𝒕𝒆𝒖𝒔 𝑪𝒉𝒂𝒈𝒂𝒔**😼
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=0BFF00FF&center=true&vCenter=true&random=false&width=390&lines=+Mateus+Chagas+" alt="Typing SVG">
+  </a>
+  
 - 𝐄𝐬𝐭𝐨𝐮 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐬𝐚𝐝𝐨 𝐞𝐦 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐫 𝐚 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐫 𝐧𝐨𝐯𝐚𝐬 𝐥𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐧𝐬
 - 𝐑𝐞𝐜𝐞𝐧𝐭𝐞 𝐞𝐬𝐭𝐨𝐮 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐚 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐫 𝐚 𝐥𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐦 𝐝𝐞 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 𝐞 𝐒𝐜𝐫𝐚𝐭𝐜𝐡
 
@@ -23,3 +27,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mateuuus/Mateuuus/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mateuuus/Mateuuus/output/github-contribution-grid-snake.svg">
 </picture>
+
